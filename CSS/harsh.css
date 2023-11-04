@@ -28,7 +28,7 @@ body {
   align-items: flex-end;
   justify-content: center;
   flex-direction: column;
-  padding: 050px;
+  padding: 0 50px;
 }
 
 .social a {
